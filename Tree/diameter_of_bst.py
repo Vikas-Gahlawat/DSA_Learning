@@ -23,4 +23,5 @@ def diameter_of_bst(node):
     return 1 + max(left, right)
     
 diameter_of_bst(root)
+print(diameter)
     
